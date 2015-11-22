@@ -3,6 +3,7 @@
 ###Quick Refernces
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+--
 The extension .md desginate a file to be read in the **markdown** language, a lightwieght markup language. GitHub uses a variation of the markdown langauge read [GitHub flavored markdown](https://help.github.com/articles/github-flavored-markdown/) for differences.
 
 
