@@ -1,5 +1,7 @@
 ##References\Cheatsheets
-- (.md)(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [.md Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Markdown is a lightwieght markup language. GitHub uses a variation of the markdown langauge [GitHub flavored markdown](https://help.github.com/articles/github-flavored-markdown/)
+
 
 ##Tutorials
 
