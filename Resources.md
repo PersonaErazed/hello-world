@@ -11,4 +11,4 @@ The extension *.md* desginates a file to be read in the **markdown** language, a
 
 - [Hello World Guide](http://guides.github.com/activities/hello-world)
 - [Pro Git](https://git-scm.com/book/en/v2)
--- [2015.11.22.1300 save state](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+  - [2015.11.22.1300 save state](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
