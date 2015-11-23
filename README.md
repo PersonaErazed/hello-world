@@ -1,6 +1,10 @@
 # hello-world
 testing space, comp tech resource links with save points, and misc.
 
+# Guides
+##spring.io
+[Building Java Projects with Maven](http://spring.io/guides/gs/maven/)
+
 [resources](resources.md) that I have recently found useful.
 
 ##About me
